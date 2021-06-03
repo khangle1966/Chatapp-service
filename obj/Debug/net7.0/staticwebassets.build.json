@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cswZhMtOyEDi8ieUg3Bh4WNKys5WlgwzXaZmNwXNzuQ=",
+  "Source": "dotnet-chat",
+  "BasePath": "_content/dotnet-chat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
